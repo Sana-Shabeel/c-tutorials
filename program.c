@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Anas Barre!\n");
+    printf("Just added a shell function in my shell's configuration file !\n");
     return 0;
 }
